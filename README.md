@@ -21,3 +21,6 @@ become. Once fully trained (after about 3 Liter flow) the LED should come on or 
 location of index/rotating disc).
 
 Pulse output on pin 10. Voltage level depending on board used.
+
+3D printed enclosure for my meters (customization likely needed to adapt)
+https://www.thingiverse.com/thing:6154972
